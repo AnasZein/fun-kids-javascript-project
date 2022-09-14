@@ -1,0 +1,52 @@
+[
+    {
+        "title": "How many months do we have in a year?",
+        "choices": [
+            10,
+            6,
+            12,
+            24
+        ],
+        "correctAnswer": 12
+    },
+    {
+        "title": "How many days do we have in a week?",
+        "choices": [
+            14,
+            7,
+            2,
+            24
+        ],
+        "correctAnswer": 7
+    },
+    {
+        "title": "How many days are there in a year?",
+        "choices": [
+            250,
+            300,
+            400,
+            365
+        ],
+        "correctAnswer": 365
+    },
+    {
+        "title": "Which day comes after Friday?",
+        "choices": [
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Monday"
+        ],
+        "correctAnswer": "Saturday"
+    },
+    {
+        "title": "Which month has only 28 days?",
+        "choices": [
+            "January",
+            "Faburary",
+            "March",
+            "April"
+        ],
+        "correctAnswer": "Faburary"
+    }
+]

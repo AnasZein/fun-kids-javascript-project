@@ -1,0 +1,52 @@
+[
+    {
+        "title": "What are your ears for?",
+        "choices": [
+            "Listening/hearing.",
+            "Talking/eating",
+            "Breathing/smelling",
+            "seeing"
+        ],
+        "correctAnswer": "Listening/hearing."
+    },
+    {
+        "title": "We use our eyes to",
+        "choices": [
+            "Feel",
+            "Eat",
+            "Hear",
+            "See"
+        ],
+        "correctAnswer": "See"
+    },
+    {
+        "title": "How many sences do we have",
+        "choices": [
+            "five",
+            "foue",
+            "three",
+            "two"
+        ],
+        "correctAnswer": "five"
+    },
+    {
+        "title": "What should we do to keep healthy",
+        "choices": [
+            "eat well",
+            "practice alot",
+            "rest well",
+            "all of the above"
+        ],
+        "correctAnswer": "all of the above"
+    },
+    {
+        "title": "If your teeth hurt where do you go",
+        "choices": [
+            "to the dentist",
+            "to the doctor",
+            "to the hospital",
+            "none of the above"
+        ],
+        "correctAnswer": "to the dentist"
+    }
+]

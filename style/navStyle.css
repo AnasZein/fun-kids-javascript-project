@@ -1,0 +1,123 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.nav {
+  width: 100%;
+  height: 150px;
+  border-bottom: 15px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav-icon {
+  height: 90%;
+  padding: 20px;
+}
+.nav-icon img {
+  height: 90%;
+}
+.nav-items {
+  height: 90%;
+  display: flex;
+  flex-direction: row;
+  margin: 0px 20px;
+}
+.nav-Item-games,
+.nav-Item-quizes,
+.nav-Item-animals {
+  height: 140px;
+  width: 112px;
+  padding: 7px;
+  margin: 0px 15px;
+}
+.nav-item-games-img {
+  height: 70%;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #00741a;
+}
+.nav-item-games-img img {
+  height: 90%;
+}
+.nav-item-games-title {
+  height: 25%;
+  color: #00741a;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-Item-games:hover .nav-item-games-img {
+  background-color: #08e037;
+  border: 1px solid #cce449;
+}
+.nav-Item-games:hover .nav-item-games-img img {
+  transform: rotate(360deg);
+  transition: transform 2s ease-in;
+}
+
+.nav-Item-games:hover .nav-item-games-title {
+  color: #08e037;
+  border-bottom: 2px solid #08e037;
+}
+
+.nav-item-quizes-img {
+  height: 70%;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #7100b8;
+}
+.nav-item-quizes-img img {
+  height: 80%;
+  padding: 5px;
+}
+.nav-item-quizes-title {
+  height: 25%;
+  color: #7100b8;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-Item-quizes:hover .nav-item-quizes-img {
+  background-color: #ae46ee;
+  border: 1px solid #cce449;
+}
+.nav-Item-quizes:hover .nav-item-quizes-img img {
+  transform: rotate(360deg);
+  transition: transform 2s ease-in;
+}
+.nav-Item-quizes:hover .nav-item-quizes-title {
+  color: #ae46ee;
+  border-bottom: 2px solid #ae46ee;
+}
+
+.nav-item-animals-img {
+  height: 70%;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #e02619;
+}
+.nav-item-animals-img img {
+  padding: 5px;
+  height: 85%;
+}
+.nav-item-animals-title {
+  height: 25%;
+  color: #e02619;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-Item-animals:hover .nav-item-animals-img {
+  background-color: #f74e42;
+  border: 1px solid #cce449;
+}
+.nav-Item-animals:hover .nav-item-animals-img img {
+  transform: rotate(360deg);
+  transition: transform 2s ease-in;
+}
+
+.nav-Item-animals:hover .nav-item-animals-title {
+  color: #f74e42;
+  border-bottom: 2px solid #f74e42;
+}

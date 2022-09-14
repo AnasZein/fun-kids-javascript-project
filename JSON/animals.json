@@ -1,0 +1,52 @@
+[
+    {
+        "title": "What is a baby frog called?",
+        "choices": [
+            "Frog",
+            "Child",
+            "Tadpole",
+            "Curb"
+        ],
+        "correctAnswer": "Tadpole"
+    },
+    {
+        "title": "Where does a pig live?",
+        "choices": [
+            "Sty",
+            "Barn",
+            "Farm",
+            "Stead"
+        ],
+        "correctAnswer": "Barn"
+    },
+    {
+        "title": "Which animal is known as the ‘Ship of the Desert?",
+        "choices": [
+            "Horse",
+            "Lion",
+            "Camel",
+            "Goat"
+        ],
+        "correctAnswer": "Camel"
+    },
+    {
+        "title": "Baby of a dog is called__________",
+        "choices": [
+            "Puppy",
+            "Child",
+            "Curb",
+            "Baby dog"
+        ],
+        "correctAnswer": "Puppy"
+    },
+    {
+        "title": "Trout, carp and, barracuda are names of what?",
+        "choices": [
+            "Animal",
+            "Fish",
+            "Cereal",
+            "Houses"
+        ],
+        "correctAnswer": "Fish"
+    }
+]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="/style/quizPage.css" />
+    <link rel="stylesheet" href="./style/navStyle.css">
+</head>
+
+<body>
+    <div class="nav">
+        <div class="nav-icon">
+            <img src="./images/logo2.png" alt="logo" />
+        </div>
+        <div class="nav-items">
+            <div class="nav-Item-games">
+                <div class="nav-item-games-img">
+                    <img src="./images/Games.svg" alt="games" />
+                </div>
+                <div class="nav-item-games-title">Games</div>
+            </div>
+            <div class="nav-Item-quizes">
+                <div class="nav-item-quizes-img">
+                    <img src="./images/quizes.png" alt="quizes" />
+                </div>
+                <div class="nav-item-quizes-title">Quizes</div>
+            </div>
+            <div class="nav-Item-animals">
+                <div class="nav-item-animals-img">
+                    <img src="./images/animals.png" alt="animals" />
+                </div>
+                <div class="nav-item-animals-title">Animals</div>
+            </div>
+        </div>
+    </div>
+    <div class="quiz-page">
+        <div class="quiz-info">
+            <div class="count">Questions Count: <span></span></div>
+        </div>
+        <div class="quiz-area"></div>
+        <div class="answers-area"></div>
+        <button class="submit-button">Submit Answer</button>
+        <div class="bullets">
+            <div class="spans"></div>
+            <div class="countdown"></div>
+        </div>
+        <div class="results"></div>
+    </div>
+    <script src="./JS/quiz.js"></script>
+</body>
+
+</html>

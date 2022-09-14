@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Which animal lays eggs?",
+        "choices": [
+            "Dog",
+            "Cat",
+            "Duck",
+            "Sheep"
+        ],
+        "correctAnswer": "Duck"
+    },
+    {
+        "title": "A male cow is called?",
+        "choices": [
+            "Ox",
+            "Dog",
+            "Sheep",
+            "Monkey"
+        ],
+        "correctAnswer": "Ox"
+    },
+    {
+        "title": "All animals need food, air, and ____ to survive.",
+        "choices": [
+            "House",
+            "Water",
+            "Chocolate",
+            "Fruits"
+        ],
+        "correctAnswer": "Water"
+    },
+    {
+        "title": "Which one is a fur-bearing animal?",
+        "choices": [
+            "Hen",
+            "Crocodile",
+            "Tortoise",
+            "Cat"
+        ],
+        "correctAnswer": "Cat"
+    },
+    {
+        "title": "What is the young one of a cow called?",
+        "choices": [
+            "Puppy",
+            "Kitten",
+            "Calf",
+            "Baby"
+        ],
+        "correctAnswer": "Calf"
+    }
+]

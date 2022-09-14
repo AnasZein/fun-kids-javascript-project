@@ -1,0 +1,52 @@
+[
+    {
+        "title": "What is Earth’s only natural satellite?",
+        "choices": [
+            "Sun",
+            "Mars",
+            "Venus",
+            "Moon"
+        ],
+        "correctAnswer": "Venus"
+    },
+    {
+        "title": "What star shines in the day and provides light?",
+        "choices": [
+            "Moon",
+            "Venus",
+            "Mars",
+            "Sun"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "title": "Dark rain clouds can give out lightning and ____.",
+        "choices": [
+            "Thunder",
+            "Snow",
+            "Sunlight",
+            "Wind"
+        ],
+        "correctAnswer": "Thunder"
+    },
+    {
+        "title": "How many planets does our solar system have?",
+        "choices": [
+            8,
+            9,
+            10,
+            11
+        ],
+        "correctAnswer": 9
+    },
+    {
+        "title": "What is the speed of light?",
+        "choices": [
+            "300 km/hr",
+            "400 km/hr",
+            "50 km/hr",
+            "380 km/hr"
+        ],
+        "correctAnswer": "300 km/hr"
+    }
+]
